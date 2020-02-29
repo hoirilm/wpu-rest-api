@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Hoiril Mochtar",
+        "umur": 23,
+        "nrp": "150411100042",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": { 
+            "pembimbing1": "Sigit Susanto Putro",
+            "pembimbing2": "Husni"
+        }
+    },
+    {
+        "nama": "Hoiril Mochtar",
+        "umur": 23,
+        "nrp": "150411100042",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": { 
+            "pembimbing1": "Sigit Susanto Putro",
+            "pembimbing2": "Husni"
+        }
+    }
+]
